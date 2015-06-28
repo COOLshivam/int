@@ -1,0 +1,68 @@
+body {
+    font-family:"Arial", Helvetica, sans-serif;
+    
+    background-color: teal;
+}
+
+
+table{
+    width: 100%;
+    height: 100%;
+    border: 8px; 
+    
+}
+
+.ide{
+     font-family : "#"; 
+	float : left;
+	height: 100%;
+        width: 100%;
+       padding-bottom: 6px;
+        
+}
+td{
+    padding-left: 30px;
+}
+h1{
+    font-style: "#"; color: #FF8F8F; 
+    font-size: 15px;
+    
+}
+
+h3{
+    font-style: "#";
+    color: #8FF8F8; 
+    text-align: justify;
+    font-size: 11px;
+    width: 100%;
+    float: right;
+    
+    
+}
+h4{
+    color: #FFFFFF;
+    text-align: right;
+    font-size: 14px;
+    float: right;
+    
+}
+.image{
+    width: 100%;
+    height: 100px;
+    border: 0;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.logo{
+    width: 8px;
+    height: 10px;
+    float:left; 
+    text-align: left;
+}
+p{
+    text-align: right; 
+    color: #C8C8C8;
+  
+   font-size: 10px;
+    
+}
